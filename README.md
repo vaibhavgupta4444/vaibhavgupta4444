@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/vivektripaathi/vivektripaathi/refs/heads/main/assets/coding.gif
+![Coding](https://raw.githubusercontent.com/vivektripaathi/vivektripaathi/refs/heads/main/assets/coding.gif)
 - 👋 Hi, I’m Vaibhav Gupta
 - 🎓 Pre-Final Year student at Kamla Nehru Institute of Technology, Sultanpur
 - 👀 I’m interested in Learning new Technologies and making Projects
